@@ -17,3 +17,5 @@ Instructions to run the software
 You can create all users but Admin is fixed choose below credentials to access the Admin:
     admin ID: Admin
     admin Password: Admin
+
+Link to the user manual: https://docs.google.com/document/d/1HfA7jhxrNq08lM3kIvMUYdab98CnsvcZlgrQjbAmcWs/edit
