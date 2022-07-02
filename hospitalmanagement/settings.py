@@ -6,7 +6,7 @@ STATIC_DIR=os.path.join(BASE_DIR,'static')
 SECRET_KEY = 'hpbv()ep00boce&o0w7z1h)st148(*m@6@-rk$nn)(n9ojj4c0'
 
 DEBUG = True
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [*]
 
 
 INSTALLED_APPS = [
